@@ -8,7 +8,7 @@ Name | Preview/Download
 `logo.jpg` | [Githack](https://raw.githubusercontent.com/uivjs/logo/master/logo.jpg) / [Github](https://uivjs.github.io/logo/logo.jpg)
 `logo.png` | [Githack](https://raw.githubusercontent.com/uivjs/logo/master/logo.png) / [Github](https://uivjs.github.io/logo/logo.png)
 `logo.svg` | [Githack](https://raw.githubusercontent.com/uivjs/logo/master/logo.svg) / [Github](https://uivjs.github.io/logo/logo.svg)
-`uiw.sketch` | [Github](https://uivjs.github.io/logo/uiw.sketch)
+`uivjs.sketch` | [Github](https://uivjs.github.io/logo/uivjs.sketch)
 
 Designed by [Kenny Wong](https://github.com/jaywcjlove).
 
